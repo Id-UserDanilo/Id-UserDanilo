@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Id-UserDanilo
-- 👀 I’m interested in to learn about front-end and back-end
-- 🌱 I’m currently learning HTML , CSS , JavaScript , Java and mobile.
+- 👀 I’m interested in to learn about back-end and CyberSecurity.
+- 🌱 I’m currently learning HTML , CSS , JavaScript , Java and Pytho.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anyone.
 
