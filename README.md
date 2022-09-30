@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Id-UserDanilo
 - 👀 I’m interested in to learn about back-end and CyberSecurity.
-- 🌱 I’m currently learning HTML , CSS , JavaScript , Java and Python.
+- 🌱 I’m currently learning Python, Kali Linux, SOC (Security Operation System)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anyone.
 - I'm looking an opportunity to work as an Intern.
